@@ -1,0 +1,1 @@
+import axiosIns from "../index";
